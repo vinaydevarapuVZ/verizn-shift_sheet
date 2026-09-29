@@ -1,0 +1,16 @@
+{
+  "members": [
+    "Alice",
+    "Brian",
+    "Chris",
+    "Diana",
+    "Emma",
+    "Frank",
+    "Grace",
+    "Henry"
+  ],
+  "holidays": {
+    "2026-10-20": "Company holiday",
+    "2026-10-26": "Festival holiday"
+  }
+}
